@@ -24,7 +24,7 @@ This Python tool allows users to draw geometric shapes (rectangles, circles, and
 
 ## Installation
 
-1. Ensure you have Python 3.6+ installed
+1. Ensure you have Python 3.12 installed
 2. Install OpenCV:
    ```bash
    pip install opencv-python
